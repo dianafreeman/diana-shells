@@ -3,10 +3,10 @@
 # —
 
 # dianasteakleyfreeman.com
-alias DIANA_WEB= ‘dsteakleyfreeman@107.180.46.155'
+alias DIANA_WEB='dsteakleyfreeman@107.180.46.155'
 
 # janetlreed.com
-alias REED_WEB=“dsfdev@janetlreed.com'
+alias REED_WEB='dsfdev@janetlreed.com'
 
 # itriples.org
 alias ISSS_WEB='iwbtrgso8qum@itriples.org'
