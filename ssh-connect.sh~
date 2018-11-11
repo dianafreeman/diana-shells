@@ -1,0 +1,14 @@
+function print_my_input(){
+ echo 'my input was: ' $1
+}
+
+function sshTo(){
+if [ "$1" == "PG_DEV"] 
+then
+	return "$1"
+else 
+
+	return "Not PG_DEV" 
+
+fi
+}

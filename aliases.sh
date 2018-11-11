@@ -17,5 +17,4 @@ alias PG_DEV_WEB='psyberguide_shell@dev18.psyberguide.org'
 # Local BASH PROFILE
 alias BASH_PROFILE='nano ~/.bash_profile'
 
-
-
+alias subl-proj='subl --project *.sublime-project'

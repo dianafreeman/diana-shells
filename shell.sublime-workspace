@@ -1,0 +1,768 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"this",
+				"thisTax"
+			],
+			[
+				"owl",
+				"owl-nav"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"get_styleshet",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"vet",
+				"vertical-align\tproperty"
+			],
+			[
+				"nth-",
+				"nth-of-type"
+			],
+			[
+				"wp_get_atta",
+				"wp_get_attachment_image_src"
+			],
+			[
+				"get_the",
+				"get_the_ID"
+			],
+			[
+				"MARS",
+				"MARS_mean"
+			],
+			[
+				"Trasn",
+				"Trans_score"
+			],
+			[
+				"Psybergui",
+				"Psyberguide_points"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"backgroun",
+				"background-fill"
+			],
+			[
+				"Psyber",
+				"Psyberguide_points"
+			],
+			[
+				"screen",
+				"screen-reader-text\t(style.css)"
+			],
+			[
+				"get_template",
+				"get_template_directory_uri\t(functions.php)"
+			],
+			[
+				"AJA",
+				"AJAX_REQUEST_URL"
+			],
+			[
+				"pr",
+				"prop\t.prop() - single"
+			],
+			[
+				"get_stylesheet",
+				"get_stylesheet_directory"
+			],
+			[
+				"get_",
+				"get_template_directory"
+			],
+			[
+				"wp_enq",
+				"wp_enqueue_style"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_script"
+			],
+			[
+				"to",
+				"toggleClass"
+			],
+			[
+				"vertic",
+				"vertical-align\tproperty"
+			],
+			[
+				"aria",
+				"aria-label\tAccessbility"
+			],
+			[
+				"app-search",
+				"app-search-help\t(page-app-guide.php)"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"ha",
+				"has\t.has()"
+			],
+			[
+				"has",
+				"hasAttribute\t( name: DOMString ): boolean Element"
+			],
+			[
+				"dys",
+				"dyslexiaOff"
+			],
+			[
+				"next",
+				"nextUntil\t.nextUntil()"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"low-visio",
+				"low-vision-link\t(style.css)"
+			],
+			[
+				"low-vis",
+				"low-vision-parargraph\t(style.css)"
+			],
+			[
+				"low-vision",
+				"low-vision-header\t(style.css)"
+			],
+			[
+				"aria-lab",
+				"aria-labelledby\tAccessbility"
+			],
+			[
+				"the_",
+				"the_permalink"
+			],
+			[
+				"get_the_post_thumbnail",
+				"get_the_post_thumbnail_url"
+			],
+			[
+				"get_styl",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"toggle",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"wp_re",
+				"wp_register_script"
+			],
+			[
+				"fi",
+				"fieldset\t<fieldset>"
+			],
+			[
+				"featured",
+				"featured_img"
+			],
+			[
+				"get_sty",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"wp_register",
+				"wp_register_style"
+			],
+			[
+				"user-",
+				"user-exp\t(page-app-guide.php)"
+			],
+			[
+				"wp_dequ",
+				"wp_dequeue_style"
+			],
+			[
+				"wp_dere",
+				"wp_deregister_style"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"sma",
+				"x-small"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"wp_enqueu",
+				"wp_enqueue_style"
+			],
+			[
+				"add",
+				"add_action"
+			],
+			[
+				"wp_enqueue_scri",
+				"wp_enqueue_script"
+			],
+			[
+				"get_stul",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"wp_regi",
+				"wp_deregister_style"
+			],
+			[
+				"wp_deq",
+				"wp_dequeue_style"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"light",
+				"lightgray"
+			],
+			[
+				"wp_",
+				"wp_enqueue_style"
+			],
+			[
+				"get_styles",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"term",
+				"terms"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"have",
+				"have_posts"
+			],
+			[
+				"ta",
+				"tag_id"
+			],
+			[
+				"WP",
+				"WP_Query"
+			],
+			[
+				"get_the_term",
+				"get_the_term_list"
+			],
+			[
+				"tag_",
+				"tag_ids"
+			],
+			[
+				"tag",
+				"tag_ids"
+			],
+			[
+				"condi",
+				"conditions"
+			],
+			[
+				"tag_i",
+				"tag_ids"
+			],
+			[
+				"add_carousel",
+				"add_carousel_styles"
+			],
+			[
+				"wp_regis",
+				"wp_register_script"
+			],
+			[
+				"overf",
+				"overflow-y"
+			],
+			[
+				"backgroud",
+				"background-image"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 517,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".bash_profile",
+			"settings":
+			{
+				"buffer_size": 571,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"IP",
+				"Package Control: Install Package"
+			],
+			[
+				"ss she",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"ss shel",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"heau",
+				"HTMLBeautify"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"tidy",
+				"Tidy CSS"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"colorpc",
+				"Color Picker"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packack ",
+				"Package Control: Install Package"
+			],
+			[
+				"color sche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/user/Sites/shell"
+	],
+	"file_history":
+	[
+		"/Users/user/Sites/shell/aliases.sh",
+		"/Users/user/Sites/shell/subl-commands.sh",
+		"/Users/user/Sites/shell/.gitignore",
+		"/Users/user/Sites/dianasteakleyfreeman/diana-surge/help",
+		"/Users/user/Sites/dianasteakleyfreeman/diana-surge/package.json",
+		"/Users/user/Sites/code-aloud/historyiswatchingus/data/index.js",
+		"/Users/user/Sites/shell/ssh-connect.sh",
+		"/Users/user/Sites/shell/ssh-connect.sh~",
+		"/Users/user/Sites/shell/help",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/template-parts/content-blog.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/assets/css/app-cards.css",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/assets/js/ajax-jquery_old.js",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide18/header.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/sections/blog-bottom-header.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-config.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide18/functions.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide18/style.css",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/functions.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-templates/page-app-guide.php",
+		"/Users/user/Sites/dissect360/wp-config.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-templates/page-app-guide-old.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/inc/pgdev_customtaxonomies.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/inc/pgdev_custom_rest_api.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/sections/front-page-team.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-templates/page-review-stress.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-templates/page-review-schizophrenia.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-templates/page-review-ptsd.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-templates/page-review-mood.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-templates/page-review-listing.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-templates/page-donate.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-templates/page-about-psyberguide.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/sections/front-page-projects.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/sections/front-page-full-width.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/sections/front-page-about.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/404.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/style-new.css",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/inc/pgdev_shortcodes.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/header.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/assets/webfonts/fa-solid-900.svg",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/assets/webfonts/fa-regular-400.svg",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/assets/webfonts/fa-brands-400.svg",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/assets/js/ajax-jquery.js",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/assets/graphics/branding/itunes-badge.svg",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/style.css",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/template-parts/apps/content-dash-new.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/template-parts/apps/content-dash.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/template-parts/category/activities.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/template-parts/category/news.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/inc/pgdev-shortcodes.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/template-parts/content-pg-alum.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/sections/front-page-bottom-header.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/template-parts/content-om-board.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/template-parts/content-sab-people.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/assets/owl-carousel/psyberguide-carousel.js",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/template-parts/content-front-team.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/sections/content-front-team.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/sections/front-page-contact-us.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/assets/js/app-filtering.js",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-templates/psyberguide-team.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/template-parts/content-dash-new.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/inc/pgdev_customposts.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/template-parts/content-page.php",
+		"/Users/user/Sites/itriples/dev/wp-config.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/template-parts/content-pg-people.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-templates/om-board.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-templates/sab.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/archive-team.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-psyberguide-management.php",
+		"/Users/user/Sites/dev18.psyberguide.org/feb18/.htaccess",
+		"/Users/user/Desktop/wp-config.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-templates/page-app-guide.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/inc/ajax-jquery.js",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/inc/appended.css",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/inc/pgdev-shortcodes.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/style.css",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/template-parts/content-pg-people.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/inc/pgdev_customposts.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/single-people.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/inc/pgdev_customtaxonomies.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/functions.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-psyberguide-management.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-templates/page-about-psyberguide.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/template-parts/content-people.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/404.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/category/people.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/index.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/.htaccess.180212214848.orig",
+		"/Users/user/Sites/wp_isss_dev18_bp_xprofile_meta.sql",
+		"/Volumes/DSF Ext HD/Code/CSS/style.css",
+		"/Users/user/Documents/page-product18.php",
+		"/Users/user/Documents/dashtest.html",
+		"/Users/user/Documents/isss 2018 form.html",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/inc/pgdev_global.js",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/inc/main.css",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/template-parts/content-page.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/plugins/pgdev_customposts.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-about-psyberguide.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/plugins/pgdev_customtaxonomies.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/template-parts/content-dash-new.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/inc/accessibility/accessibility.js",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/plugins/wp-rest-api-filter.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/illdy/inc/extras.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/inc/owl-carousel/psyberguide-carousel.js",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-templates/page-press.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/sections/front-page-latest-news.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/category/news.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/category/activities.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/sections/front-page-services.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/sections/front-page-team.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/sections/front-page-projects.php",
+		"/Users/user/Google Drive/Work/PsyberGuide/Website/PsyberGuide RSRCH/consumer-redirect.html",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/illdy/layout/css/main.css",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/inc/class-illdy.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/illdy/inc/class-illdy.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-config.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/_illdy/style.css",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/header.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/category-resources.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/:* PsyberGuide.js *:",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/inc/jquery-cookie.js",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-templates/page-app-guide-2.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/template-parts/content-blog.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/category/blog.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/category-blog.php",
+		"/Applications/MAMP/htdocs/psyberguide_dev_dream_pr.sql",
+		"/Users/user/Downloads/output/Heart model.html",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/footer.php",
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/inc/__main.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 517,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								517,
+								517
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1541468197.52,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".bash_profile",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1541468207.66,
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shell.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				".htaccess.180212214848.orig"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/adm.psyberguide.org/pg-adm.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
