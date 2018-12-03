@@ -15,6 +15,7 @@ echo "Here is a list of everything in this folder"
 source /Users/user/Sites/shell/aliases.sh
 source /Users/user/Sites/shell/ssh-connect.sh
 source /Users/user/Sites/shell/subl-commands.sh
+source /Users/user/Sites/shell/web-creation.sh
 
 # -- 
 # -- Color & Syntax highlighting

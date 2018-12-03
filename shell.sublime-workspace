@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"ht",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
 				"this",
 				"thisTax"
 			],
@@ -308,18 +312,28 @@
 	"buffers":
 	[
 		{
-			"file": "README.md",
+			"file": "aliases.sh",
 			"settings":
 			{
-				"buffer_size": 517,
+				"buffer_size": 512,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": ".bash_profile",
+			"file": "ssh-connect.sh",
 			"settings":
 			{
-				"buffer_size": 571,
+				"buffer_size": 786,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "subl-commands.sh",
+			"settings":
+			{
+				"buffer_size": 86,
 				"line_ending": "Unix"
 			}
 		}
@@ -441,10 +455,15 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/user/Sites/shell"
+		"/Users/user/Sites/shell",
+		"/Users/user/Sites/shell/macos-terminal-themes"
 	],
 	"file_history":
 	[
+		"/Users/user/Sites/shell/web-creation.sh",
+		"/Users/user/Sites/jlreed/index.html",
+		"/Users/user/Sites/shell/.bash_profile",
+		"/Users/user/Sites/shell/README.md",
 		"/Users/user/Sites/shell/aliases.sh",
 		"/Users/user/Sites/shell/subl-commands.sh",
 		"/Users/user/Sites/shell/.gitignore",
@@ -568,11 +587,7 @@
 		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/page-templates/page-app-guide-2.php",
 		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/template-parts/content-blog.php",
 		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/category/blog.php",
-		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/category-blog.php",
-		"/Applications/MAMP/htdocs/psyberguide_dev_dream_pr.sql",
-		"/Users/user/Downloads/output/Heart model.html",
-		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/footer.php",
-		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/inc/__main.css"
+		"/Applications/MAMP/htdocs/dev18.psyberguide.org/feb18/wp-content/themes/PsyberGuide/category-blog.php"
 	],
 	"find":
 	{
@@ -607,30 +622,60 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "README.md",
+					"file": "aliases.sh",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 517,
+						"buffer_size": 512,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								517,
-								517
+								461,
+								461
 							]
 						],
 						"settings":
 						{
-							"markdonw_live_preview_last_run": 1541468197.52,
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"markdonw_live_preview_last_run": 1543643542.75,
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ssh-connect.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								784,
+								784
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1543643542.72,
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -640,12 +685,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": ".bash_profile",
+					"buffer": 2,
+					"file": "subl-commands.sh",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 571,
+						"buffer_size": 86,
 						"regions":
 						{
 						},
@@ -658,7 +703,7 @@
 						],
 						"settings":
 						{
-							"markdonw_live_preview_last_run": 1541468207.66,
+							"markdonw_live_preview_last_run": 1543643542.75,
 							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
 						},
 						"translation.x": 0.0,
@@ -738,7 +783,7 @@
 		[
 			[
 				"",
-				"~/Sites/adm.psyberguide.org/pg-adm.sublime-project"
+				"~/Sites/jlreed-theme/jlreed-theme.sublime-workspace"
 			]
 		],
 		"width": 380.0
