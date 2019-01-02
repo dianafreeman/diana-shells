@@ -315,7 +315,7 @@
 			"file": "aliases.sh",
 			"settings":
 			{
-				"buffer_size": 512,
+				"buffer_size": 1213,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -456,6 +456,7 @@
 	"expanded_folders":
 	[
 		"/Users/user/Sites/shell",
+		"/Users/user/Sites/shell/macos-terminal-themes",
 		"/Users/user/Sites/shell/macos-terminal-themes"
 	],
 	"file_history":
@@ -631,20 +632,20 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 512,
+						"buffer_size": 1213,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								461,
-								461
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"markdonw_live_preview_last_run": 1543643542.75,
+							"markdonw_live_preview_last_run": 1545275033.03,
 							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
 						},
 						"translation.x": 0.0,
@@ -673,7 +674,7 @@
 						],
 						"settings":
 						{
-							"markdonw_live_preview_last_run": 1543643542.72,
+							"markdonw_live_preview_last_run": 1545275033.02,
 							"syntax": "Packages/ShellScript/Bash.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
@@ -703,7 +704,7 @@
 						],
 						"settings":
 						{
-							"markdonw_live_preview_last_run": 1543643542.75,
+							"markdonw_live_preview_last_run": 1545275033.11,
 							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
 						},
 						"translation.x": 0.0,
