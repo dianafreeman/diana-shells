@@ -42,8 +42,9 @@ Thumbs.d
 *.sublime-workspace'
 
 # NodeJS #
-node_modules
-build
+node_modules/
+json_packages/
+build/
 npm-debug.log
 .env
 
