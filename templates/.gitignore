@@ -48,3 +48,6 @@ build/
 npm-debug.log
 .env
 
+#SASS#
+.sass-cache
+.sass-cache
